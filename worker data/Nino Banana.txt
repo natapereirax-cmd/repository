@@ -1,0 +1,5 @@
+Nino
+Banana
+12345
+1000
+Nino.Banana@company.com
